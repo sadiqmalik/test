@@ -1,4 +1,4 @@
 <?php
-echo "This is testing file";
+echo "Sadiq testing 60";
 exit;
 ?>
